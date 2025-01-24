@@ -1,5 +1,5 @@
 
-import "styles.css";
+import "./styles.css";
 module.exports = class ImageCarousel {
     constructor(targetMain) {
         this.main = document.querySelector(targetMain);
