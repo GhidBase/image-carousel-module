@@ -1,0 +1,22 @@
+{
+  "name": "image-carousel",
+  "version": "1.0.0",
+  "description": "My pre-built image-carousel solution, made to be reusable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GhidBase/image-carousel-module.git"
+  },
+  "keywords": [
+    "GhidBase"
+  ],
+  "author": "Dylan Simon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GhidBase/image-carousel-module/issues"
+  },
+  "homepage": "https://github.com/GhidBase/image-carousel-module#readme"
+}
