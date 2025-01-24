@@ -1,6 +1,6 @@
-import "styles.css";
 
-class ImageCarousel {
+import "styles.css";
+export class ImageCarousel {
     constructor(targetMain) {
         this.main = document.querySelector(targetMain);
         this.slider = this.main.querySelector(".slider");
@@ -71,6 +71,3 @@ class ImageCarousel {
         setTimeout(() => this.startTimer(), 5000);
     }
 }
-
-let carousel = new ImageCarousel(".carousel-main");
-window.carousel = carousel;
